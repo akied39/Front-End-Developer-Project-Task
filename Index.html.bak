@@ -2,5 +2,9 @@
 <html>
 <head>
 	<title>Front End Developer Project Task</title>
+	<link href="style.css" type="tesxt/css" rel="stylesheet">
 <head>
+<body>
+	test
+</body>
 </html>
